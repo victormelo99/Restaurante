@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #202020;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.areaSuperior{
+    background-image: linear-gradient(to right, #f34418cc, #0265b6be);
+    height: 50px;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+}
+
+.areaSuperior>.container { 
+    height: 100%;
+}
+
+.navegacao{
+    display: flex;
+    gap: 40px;
+}
+.opcaoNavegacao{
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.3s, transform 0.2s ease;
+}
+
+.opcaoNavegacao:hover{
+    color: #f1f1f1;
+}
+
+
+body{
+    background-image: linear-gradient(to right, #f3441818, #0265b617);
+}
+
+
+main .container{
+    margin-top: 100px;
+}
+
+.areas{
+    display: flex;
+    width: 100%;
+    border-radius: 10px;
+    position: relative;
+}
+
+.areaListar,.areaCadastrar,.areaAlterar{
+    width: 100%;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.areaListar{
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+    color: #f34418ad;
+}
+
+.areaCadastrar,.areaAlterar{
+    display: none;
+}
+
+.tabela{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabela th,.tabela td {
+    padding: 10px 0 10px 0;
+    text-align: center;
+    text-transform: capitalize;
+    border: 1px solid #0265b652;
+}
+
+
+.tabela td:first-child,.tabela th:first-child,.textId,#idAlterar {
+    display: none;
+}
+
+p{
+    padding-bottom: 15px;
+}
+
+
+.campo,.opcoes{
+    text-transform: capitalize;
+    width: 20% ;
+    height: 35px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+}
+
+.campo{
+    padding-left: 10px;
+}
+.campo:focus{
+    outline: none;
+    padding-left: 10px;
+}
+
+.textTipo{
+    margin-bottom: -20px;
+}
+
+.opcoes{
+    display: flex;
+    border: none;
+    justify-content: space-between;
+}
+
+.salvar,.alterar,.sair{
+    background-color: transparent;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.salvar:hover,.alterar:hover,.sair:hover{
+    color: #f76c6c;
+    transition: 0.3s, transform 0.2s ease;
+}
+
+.selecionado {
+    background-image: linear-gradient(to right, #f3441869, #0265b65e);
+}
+
+#alterar:disabled,#deletar:disabled {
+    opacity: 0.5 !important;
+    cursor: not-allowed !important;
+}

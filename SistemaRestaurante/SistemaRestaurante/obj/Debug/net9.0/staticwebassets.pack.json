@@ -1,0 +1,137 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\CSS\\areaCliente.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\CSS\\areaCliente.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\CSS\\areaFuncionario.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\CSS\\areaFuncionario.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\CSS\\areaLogin.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\CSS\\areaLogin.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\CSS\\areaProdutos.css",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\CSS\\areaProdutos.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\HTML\\areaCliente.html",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\HTML\\areaCliente.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\HTML\\areaFuncionario.html",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\HTML\\areaFuncionario.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\HTML\\areaProdutos.html",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\HTML\\areaProdutos.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\IMG\\icones\\icone-carrinho.svg",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\IMG\\icones\\icone-carrinho.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\IMG\\icones\\lixeira.svg",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\IMG\\icones\\lixeira.svg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\IMG\\produtos\\emBreve.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\IMG\\produtos\\emBreve.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\IMG\\produtos\\heineken.png",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\IMG\\produtos\\heineken.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\IMG\\produtos\\lasanha.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\IMG\\produtos\\lasanha.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\IMG\\produtos\\macarrão.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\IMG\\produtos\\macarrão.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\IMG\\produtos\\stelaArtois.png",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\IMG\\produtos\\stelaArtois.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\IMG\\produtos\\sucoLaranja.jpg",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\IMG\\produtos\\sucoLaranja.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\JS\\atualizarPedidoCliente.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\JS\\atualizarPedidoCliente.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\JS\\atualizarProduto.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\JS\\atualizarProduto.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\JS\\atualizarStatusPedido.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\JS\\atualizarStatusPedido.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\JS\\cadastrarProduto.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\JS\\cadastrarProduto.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\JS\\config.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\JS\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\JS\\login.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\JS\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\JS\\pedidos.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\JS\\pedidos.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\JS\\pedidosCliente.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\JS\\pedidosCliente.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\JS\\produtos.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\JS\\produtos.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\JS\\realizarPedido.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\JS\\realizarPedido.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\assets\\JS\\utilidades.js",
+      "PackagePath": "staticwebassets\\FrontEnd\\assets\\JS\\utilidades.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\FrontEnd\\index.html",
+      "PackagePath": "staticwebassets\\FrontEnd\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\wwwroot\\README.md",
+      "PackagePath": "staticwebassets\\README.md"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SistemaRestaurante.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SistemaRestaurante.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SistemaRestaurante.props",
+      "PackagePath": "build\\SistemaRestaurante.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SistemaRestaurante.props",
+      "PackagePath": "buildMultiTargeting\\SistemaRestaurante.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SistemaRestaurante.props",
+      "PackagePath": "buildTransitive\\SistemaRestaurante.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

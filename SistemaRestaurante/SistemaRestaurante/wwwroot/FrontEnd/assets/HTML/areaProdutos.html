@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/areaProdutos.css">
+    <title>Produtos</title>
+</head>
+
+<body>
+    <header class="areaSuperior">
+        <div class="container">
+            <nav class="navegacao">
+                <button id="listar" class="opcaoNavegacao">Listar Produtos</button>
+                <button id="cadastrar" class="opcaoNavegacao">Cadastrar Produto</button>
+                <button id="alterar" class="opcaoNavegacao" disabled>Alterar Produto</button>
+                <button id="deletar" class="opcaoNavegacao" disabled>Deletar Produto</button>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <div class="areas">
+                <div id="areaListar" class="areaListar">
+                    <h1>Produtos Disponíveis</h1>
+                    <table class="tabela">
+                        <thead class="cabecalho">
+                            <tr>
+                                <td>Id</td>
+                                <td>Nome</td>
+                                <td>Preço</td>
+                                <td>Tipo</td>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody"></tbody>
+                    </table>
+                    <div class="opcoes">
+                        <div id="sair" class="sair">Sair</div>
+                    </div>
+                </div>
+                <div id="areaCadastrar" class="areaCadastrar">
+                    <div>
+                        <p>Nome:</p>
+                        <input type="text" required class="campo" id="nomeCadastrar">
+                    </div>
+                    <div>
+                        <p>Preço:</p>
+                        <input type="number" required class="campo" id="precoCadastrar">
+                    </div>
+                    <div>
+                        <p>Tipo de Produto:</p>
+                        <select class="campo" id="tipo">
+                            <option value="1">Comida</option>
+                            <option value="0">Bebida</option>
+                        </select>
+                    </div>
+                    <div class="opcoes">
+                        <button id="salvar" class="salvar">
+                            Salvar
+                        </button>
+                        <div id="sair1" class="sair">Sair</div>
+                    </div>
+                </div>
+                <div id="areaAlterar" class="areaAlterar">
+                    <div>
+                        <p class="textId">Id:</p>
+                        <input type="number" required class="campo" id="idAlterar" readonly>
+                    </div>
+                    <div>
+                        <p>Nome:</p>
+                        <input type="text" required class="campo" id="nomeAlterar">
+                    </div>
+                    <div>
+                        <p>Preço:</p>
+                        <input type="number" required class="campo" id="precoAlterar">
+                    </div>
+                    <p class="textTipo">Tipo de Produto:</p>
+                    <select class="campo" id="tipoAlterar">
+                        <option value="1">Comida</option>
+                        <option value="0">Bebida</option>
+                    </select>
+                    <div class="opcoes">
+                        <button id="alterarDados" class="alterar">
+                            Alterar
+                        </button>
+                        <div id="sair2" class="sair">Sair</div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <script type="module" src="../JS/produtos.js"></script>
+    <script type="module" src="../JS/cadastrarProduto.js"></script>
+    <script type="module" src="../JS/atualizarProduto.js"></script>
+</body>
+</html>

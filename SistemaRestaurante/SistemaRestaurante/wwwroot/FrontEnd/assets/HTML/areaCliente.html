@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/areaCliente.css">
+    <title>Area Cliente</title>
+</head>
+
+<body>
+    <header class="areaSuperior">
+        <div class="container">
+            <nav class="navegacao">
+                <button class="opcaoNavegacao" id="cardapio">Cardápio</button>
+                <button class="opcaoNavegacao" id="listarPedido">Pedidos realizados</button>
+                <button class="opcaoNavegacao" id="alterarPedido" disabled>Alterar Pedido</button>
+                <button class="opcaoNavegacao" id="deletarPedido" disabled>Excluir Pedido</button>
+            </nav>
+            <nav class="navegacao">
+                <button id="carrinho" class="opcaoNavegacao"><img src="../IMG/icones/icone-carrinho.svg"
+                        alt=""></button>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <div class="container">
+                <div class="areas">
+                    <div id="areaCardapio" class="areaListar">
+                        <h1>Cardápio</h1>
+                        <div id="conteudoCardapio" class="conteudoCardapio"></div>
+                    </div>
+                    <div id="areaListarPedidos" class="areaListarPedidos">
+                        <div class="container">
+                            <table class="tabela">
+                                <thead class="cabecalho">
+                                    <tr>
+                                        <td class="idColuna">Id</td>
+                                        <td class="nome">Cliente</td>
+                                        <td class="colunaMesa">Número da mesa</td>
+                                        <td class="itens">Itens</td>
+                                        <td class="status">Status do Pedido</td>
+                                        <td class="valor">Valor Total</td>
+                                        <td class="data">Data do Pedido</td>
+                                    </tr>
+                                </thead>
+                                <tbody id="tbodyPedidosClientes"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div id="areaAlterarPedido" class="areaAlterarPedido">
+                        <div class="container">
+                            <div class="areaIdCliente">
+                                <p>Id:</p>
+                                <input type="number" required  readonly class="campo" id="idCliente">
+                            </div>
+                            <div>
+                                <p>Nome do Cliente:</p>
+                                <input type="text" required class="campo" id="nomeClienteAlterar">
+                            </div>
+                            <div>
+                                <p>Número da mesa:</p>
+                                <input type="number" required class="campo" id="numeroMesaAlterar">
+                            </div>
+                            <div>
+                                <p>Produtos selecionados:</p>
+                                <div id="listaProdutosAlterar" class="campo campoAlterar"></div>
+                            </div>
+                            <div>
+                                <button id="alterarDados" class="alterarPedido">Alterar Dados</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="areaRealizarPedido" class="areaRealizarPedido">
+                        <div class="container">
+                            <div>
+                                <p>Nome do Cliente:</p>
+                                <input type="text" required class="campo" id="nomeCliente">
+                            </div>
+                            <div>
+                                <p>Número da mesa:</p>
+                                <input type="number" required class="campo" id="numeroMesa">
+                            </div>
+                            <div>
+                                <p>Produtos selecionados:</p>
+                                <div id="listaProdutos" class="campo"></div>
+                            </div>
+                            <div>
+                                <button id="confirmarPedido" class="confirmarPedido">Realizar Pedido</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </main>
+    <script type="module" src="../JS/config.js"></script>
+    <script type="module" src="../JS/pedidosCliente.js"></script>
+    <script type="module" src="../JS/realizarPedido.js"></script>
+    <script type="module" src="../JS/atualizarPedidoCliente.js"></script>
+</body>
+
+</html>

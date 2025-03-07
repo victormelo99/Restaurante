@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #202020;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.areaSuperior{
+    background-image: linear-gradient(to right, #f34418cc, #0265b6be);
+    height: 50px;
+}
+
+.container {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+}
+
+.areaSuperior>.container { 
+    height: 100%;
+}
+
+.navegacao{
+    display: flex;
+    gap: 40px;
+}
+.opcaoNavegacao{
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.3s, transform 0.2s ease;
+}
+
+.opcaoNavegacao:hover{
+    color: #f1f1f1;
+}
+
+body{
+    background-image: linear-gradient(to right, #f3441818, #0265b617);
+}
+
+main{
+    flex: 1;
+}
+
+main .container{
+    margin-top: 100px;
+    overflow-x: auto;
+}
+
+
+.tabela{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabela th,.tabela td {
+    padding: 10px 0 10px 0;
+    text-align: center;
+    border: 1px solid #0265b652;
+}
+
+.tabela td:first-child{
+    display: none;
+}
+
+.colunaValor,.colunaData,.colunaStatus,.colunaNMesa{
+    width: 15%;
+}
+
+.status-select,.status-select:focus{
+    border: none;
+    
+}
+
+.selecionado {
+    background-image: linear-gradient(to right, #f3441869, #0265b65e);
+}
+
+#deletarPedido:disabled {
+    opacity: 0.5 !important;
+    cursor: not-allowed !important;
+}

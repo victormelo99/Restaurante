@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9CE621-0C78-406A-B3E1-6FA362AA0650}|SistemaRestaurante\\SistemaRestaurante.csproj|c:\\users\\pc\\onedrive\\documentos\\sistemarestaurante\\sistemarestaurante\\sistemarestaurante\\data\\restaurantedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9CE621-0C78-406A-B3E1-6FA362AA0650}|SistemaRestaurante\\SistemaRestaurante.csproj|solutionrelative:sistemarestaurante\\data\\restaurantedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9CE621-0C78-406A-B3E1-6FA362AA0650}|SistemaRestaurante\\SistemaRestaurante.csproj|c:\\users\\pc\\onedrive\\documentos\\sistemarestaurante\\sistemarestaurante\\sistemarestaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9CE621-0C78-406A-B3E1-6FA362AA0650}|SistemaRestaurante\\SistemaRestaurante.csproj|solutionrelative:sistemarestaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9CE621-0C78-406A-B3E1-6FA362AA0650}|SistemaRestaurante\\SistemaRestaurante.csproj|c:\\users\\pc\\onedrive\\documentos\\sistemarestaurante\\sistemarestaurante\\sistemarestaurante\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9CE621-0C78-406A-B3E1-6FA362AA0650}|SistemaRestaurante\\SistemaRestaurante.csproj|solutionrelative:sistemarestaurante\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9CE621-0C78-406A-B3E1-6FA362AA0650}|SistemaRestaurante\\SistemaRestaurante.csproj|c:\\users\\pc\\onedrive\\documentos\\sistemarestaurante\\sistemarestaurante\\sistemarestaurante\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9CE621-0C78-406A-B3E1-6FA362AA0650}|SistemaRestaurante\\SistemaRestaurante.csproj|solutionrelative:sistemarestaurante\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9CE621-0C78-406A-B3E1-6FA362AA0650}|SistemaRestaurante\\SistemaRestaurante.csproj|c:\\users\\pc\\onedrive\\documentos\\sistemarestaurante\\sistemarestaurante\\sistemarestaurante\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9CE621-0C78-406A-B3E1-6FA362AA0650}|SistemaRestaurante\\SistemaRestaurante.csproj|solutionrelative:sistemarestaurante\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:13:10.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\Services\\LoginService.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Services\\LoginService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T18:12:22.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\Program.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T23:12:32.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:49:21.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestauranteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\Data\\RestauranteDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaRestaurante\\Data\\RestauranteDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documentos\\SistemaRestaurante\\SistemaRestaurante\\SistemaRestaurante\\Data\\RestauranteDbContext.cs",
+              "RelativeToolTip": "SistemaRestaurante\\Data\\RestauranteDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBUAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:40:19.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
